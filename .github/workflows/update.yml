@@ -1,0 +1,38 @@
+name: Update Gempa
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" #“At minute 0 past every 12th hour.”
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          pip install pandas
+          pip install requests
+      - name: Execute Script
+        run: |
+          python main.py
+      - name: Commit File
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          now=$(date)
+          git commit -m "Update $now"
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

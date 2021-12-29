@@ -1,8 +1,9 @@
 name: Update Gempa
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" #“At minute 0 past every 12th hour.”
+  push
+  # schedule:
+  #   - cron: "0 */12 * * *" #“At minute 0 past every 12th hour.”
 
 jobs:
   run:
@@ -29,9 +30,21 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
+
+      - name: Check is need to push
+        id: check_status
+        run: |
+          STATUS=$(git status --porcelain | wc -l)
+          echo "::set-output name=STATUS::$STATUS"
+
+      - name: Commit File
+        if: steps.check_status.outputs.STATUS == 1
+        run: |
           now=$(date)
           git commit -m "Update $now"
+
       - name: Push Changes
+        if: steps.check_status.outputs.STATUS == 1
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

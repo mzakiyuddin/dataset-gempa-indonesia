@@ -1,4 +1,6 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+10 Jan 2022,18:13:07 WIB,2022-01-10 11:13:07+00:00,"-0.96,119.89",0.96 LS,119.89 BT,2.3,10 km,Pusat gempa berada di darat 7 km selatan Palu,II Palu
+10 Jan 2022,17:28:13 WIB,2022-01-10 10:28:13+00:00,"-9.13,112.73",9.13 LS,112.73 BT,4.9,10 km,Pusat gempa berada di laut 111 Km Tenggara Kabupaten Malang,"II-III Malang, II-III Blitar, II-III Lumajang, II-III Tulungagung, II-III Jember"
 10 Jan 2022,04:59:07 WIB,2022-01-09 21:59:07+00:00,"1.49,127.85",1.49 LU,127.85 BT,5.5,10 km,Pusat gempa berada di darat 5 km barat daya Halmahera Utara,"IV Tobelo, III-IV Sofifi, III-IV Galela, II-III Morotai"
 10 Jan 2022,04:27:51 WIB,2022-01-09 21:27:51+00:00,"1.52,127.86",1.52 LU,127.86 BT,5.2,10 km,Pusat gempa berada di darat 4 km BaratLaut HalmaheraUtara,"III Ternate, III Tobelo, III Wasile , III Halmahera Timur, IV Tobelo Barat, IV Halmahera Barat"
 09 Jan 2022,00:07:10 WIB,2022-01-08 17:07:10+00:00,"1.44,127.91",1.44 LU,127.91 BT,4.5,3 km,Pusat gempa berada di darat 33 km Barat Daya Tobelo,III Tobelo

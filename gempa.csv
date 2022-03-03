@@ -1,4 +1,6 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+03 Mar 2022,06:25:22 WIB,2022-03-02 23:25:22+00:00,"-0.59,131.38",0.59 LS,131.38 BT,4.8,10 km,Pusat gempa berada di laut 33 km timur laut Sorong,"III-IV Sorong, III-IV Aimas, III-IV Waisai"
+03 Mar 2022,02:14:43 WIB,2022-03-02 19:14:43+00:00,"-3.88,135.56",3.88 LS,135.56 BT,4.9,20 km,Pusat gempa berada di darat 46 km baratdaya Nabire,II-III Nabire
 02 Mar 2022,11:41:14 WIB,2022-03-02 04:41:14+00:00,"0.26,99.89",0.26 LU,99.89 BT,3.7,3 km,Pusat gempa berada di darat 10 km barat laut Talu-Pasaman Barat,III Talu
 02 Mar 2022,02:08:16 WIB,2022-03-01 19:08:16+00:00,"-3.34,128.38",3.34 LS,128.38 BT,2.4,10 km,Pusat gempa berada di darat 3 km Timur Kairatu,II Kairatu
 01 Mar 2022,22:37:03 WIB,2022-03-01 15:37:03+00:00,"0.22,99.93",0.22 LU,99.93 BT,4.5,10 km,Pusat gempa berada di darat 5km BaratDaya Talu-Pasaman Barat,"II-III Padang, III-IV Pasaman Barat, I-II Padang Panjang, I-II Bukit Tinggi"

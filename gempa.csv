@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+16 Mar 2022,17:06:14 WIB,2022-03-16 10:06:14+00:00,"-3.69,128.13",3.69 LS,128.13 BT,2.6,10 km,Pusat gempa berada di laut 6 km Barat Ambon,II Ambon
+16 Mar 2022,14:14:28 WIB,2022-03-16 07:14:28+00:00,"-3.70,128.12",3.70 LS,128.12 BT,3.3,10 km,Pusat gempa berada di laut 7 km Barat Ambon,III Ambon
+16 Mar 2022,11:06:43 WIB,2022-03-16 04:06:43+00:00,"-7.90,107.04",7.90 LS,107.04 BT,4.2,16 km,Pusat gempa berada di laut 109 km Tenggara Kota Sukabumi,"II Singajaya, II Cidaun, II Agrabinta, II Cidora"
+16 Mar 2022,10:00:01 WIB,2022-03-16 03:00:01+00:00,"-7.94,106.94",7.94 LS,106.94 BT,5.5,10 km,Pusat gempa berada di laut 113 km Tenggara Kota Sukabumi,"III Garut, IV Cianjur, II-III Lebak Selatan, II Jakarta, II Banjar, II Bandung Barat, II Bekasi, III Bayah, III Panimbang, III Pandeglang, II-III Cilegon, II Tangerang Selatan, IV Pelabuhan Ratu, II-III Sukabumi, II Bandung, II Depok, II Serang, II Purwakarta"
 15 Mar 2022,23:53:22 WIB,2022-03-15 16:53:22+00:00,"-7.26,107.72",7.26 LS,107.72 BT,3.6,1 km,Pusat gempa berada di darat 17 km Tenggara Kab. Bandung,III Ciparay
 15 Mar 2022,23:51:18 WIB,2022-03-15 16:51:18+00:00,"-7.30,107.72",7.30 LS,107.72 BT,3.2,17 km,Pusat gempa berada di darat 21 km Barat Daya Kab. Garut,III Ciparay
 15 Mar 2022,19:12:30 WIB,2022-03-15 12:12:30+00:00,"-0.55,98.47",0.55 LS,98.47 BT,5.3,25 km,Pusat gempa berada di laut 144 Km Tenggara Nias Selatan,"II Pasaman, II Nias Selatan"

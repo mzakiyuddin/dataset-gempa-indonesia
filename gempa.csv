@@ -1,4 +1,10 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+23 Jun 2022,18:26:47 WIB,2022-06-23 11:26:47+00:00,"-3.63,135.56",3.63 LS,135.56 BT,3.5,10 km,Pusat gempa berada di darat 25 km BaratDaya Nabire,II Nabire
+23 Jun 2022,17:59:39 WIB,2022-06-23 10:59:39+00:00,"-2.31,140.30",2.31 LS,140.30 BT,4.0,10 km,Pusat gempa berada di laut 32 km BaratLaut Kab-Jayapura,II - III Genyem
+23 Jun 2022,17:57:09 WIB,2022-06-23 10:57:09+00:00,"-3.43,135.49",3.43 LS,135.49 BT,4.0,10 km,Pusat gempa berada di darat 30 km BaratLaut Nabire,III Nabire
+23 Jun 2022,17:56:40 WIB,2022-06-23 10:56:40+00:00,"-3.46,135.45",3.46 LS,135.45 BT,4.2,10 km,Pusat gempa berada di darat 34 km BaratLaut Nabire,III-IV Nabire
+23 Jun 2022,11:03:47 WIB,2022-06-23 04:03:47+00:00,"-3.33,135.64",3.33 LS,135.64 BT,2.8,10 km,Pusat gempa berada di darat 23 km BaratLaut Nabire,I-II Nabire
+23 Jun 2022,10:49:45 WIB,2022-06-23 03:49:45+00:00,"-3.39,135.56",3.39 LS,135.56 BT,3.6,10 km,Pusat gempa berada di darat 25 km BaratLaut Nabire,II Nabire
 22 Jun 2022,13:48:08 WIB,2022-06-22 06:48:08+00:00,"2.10,96.46",2.10 LU,96.46 BT,4.9,10 km,Pusat gempa berada di laut 42 km tenggara Sinabang,II - III Sinabang
 22 Jun 2022,02:08:17 WIB,2022-06-21 19:08:17+00:00,"2.08,96.35",2.08 LU,96.35 BT,5.3,10 km,Pusat gempa berada di laut 43 km baratdaya Sinabang,IV Sinabang
 20 Jun 2022,12:01:37 WIB,2022-06-20 05:01:37+00:00,"2.20,96.23",2.20 LU,96.23 BT,4.8,77 km,Pusat gempa berada di laut 33 km barat daya Sinabang,"III Lasikin Simeulue, III Sinabang"

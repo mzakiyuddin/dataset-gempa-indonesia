@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+14 Nov 2022,02:41:30 WIB,2022-11-13 19:41:30+00:00,"-6.74,107.35",6.74 LS,107.35 BT,2.8,5 km,Pusat gempa berada di darat 21 km BaratLaut Kab. Bandung,I-II Purwakarta
+14 Nov 2022,01:13:57 WIB,2022-11-13 18:13:57+00:00,"-6.73,107.32",6.73 LS,107.32 BT,3.3,7 km,Pusat gempa berada di darat 22 km Timurlaut Kab. Cianjur,"I-II Purwakarta, I-II Bandung Barat"
+13 Nov 2022,22:41:14 WIB,2022-11-13 15:41:14+00:00,"-6.73,107.35",6.73 LS,107.35 BT,4.1,6 km,Pusat gempa berada di darat 21 km Baratdaya Kab. Purwakarta,"III Purwakarta, III Cianjur, III Bandung Barat, II Subang, II Bekasi"
+13 Nov 2022,22:10:21 WIB,2022-11-13 15:10:21+00:00,"-9.02,108.69",9.02 LS,108.69 BT,5.4,10 km,Pusat gempa berada di laut 148 km BaratDaya Cilacap,"II-III Garut Selatan, II-III Tasikmalaya, I-II Pangandaran, II-III Cilacap, II-III Kebumen"
 13 Nov 2022,05:44:22 WIB,2022-11-12 22:44:22+00:00,"5.15,95.36",5.15 LU,95.36 BT,3.8,59 km,Pusat gempa berada di darat 29 Km Baratdaya Jantho AcehBesar,II Banda Aceh
 12 Nov 2022,20:18:45 WIB,2022-11-12 13:18:45+00:00,"-8.18,107.36",8.18 LS,107.36 BT,5.3,10 km,Pusat gempa berada di laut 122 km Barat Daya Kab. Garut,"III Garut, III Tasikmalaya, II Ciamis, II Cianjur"
 12 Nov 2022,19:29:33 WIB,2022-11-12 12:29:33+00:00,"-8.14,107.35",8.14 LS,107.35 BT,4.9,16 km,Pusat gempa berada di laut 119 km Barat Daya Kab. Garut,"II Tasikmalaya, II Sukabumi, II Cianjur, II Garut, I-II Kab. Bandung"

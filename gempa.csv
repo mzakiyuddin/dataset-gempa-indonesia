@@ -1,8 +1,19 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+03 Jan 2023,06:55:20 WIB,2023-01-02 23:55:20+00:00,"-8.14,107.88",8.14 LS,107.88 BT,4.9,29 km,Pusat gempa berada di laut 83 km BaratDaya Pangandaran,"III Garut , III Pangalengan, III Bungbulang, III Pameungpeuk, III Sindangbarang, III Cidaun, II - III Pangandaran, II - III Tasikmalaya, II - III Cisompet, II - III Kota Banjar, II Sukabumi, II Cianjur, II Kab. Bandung"
+03 Jan 2023,05:40:00 WIB,2023-01-02 22:40:00+00:00,"-2.47,140.68",2.47 LS,140.68 BT,4.0,8 km,Pusat gempa berada di laut 13 km timur laut Kota Jayapura,II-III Kota Jayapura
+03 Jan 2023,04:39:23 WIB,2023-01-02 21:39:23+00:00,"5.49,96.98",5.49 LU,96.98 BT,4.3,2 km,Pusat gempa berada di laut 37 Km Barat Laut Kota Lhokseumawe,II - III Aceh Utara
+03 Jan 2023,04:32:54 WIB,2023-01-02 21:32:54+00:00,"-2.54,140.69",2.54 LS,140.69 BT,3.6,10 km,Pusat gempa berada di darat 9 Km Timur Laut KOta Jayapura,II Kota Jayapura
 02 Jan 2023,17:40:02 WIB,2023-01-02 10:40:02+00:00,"5.41,96.99",5.41 LU,96.99 BT,4.9,10 km,Pusat gempa berada di laut 29 Km Barat Laut Kota Lhoksemauwe,"III Lhokseumawe, II - III Aceh Utara"
 02 Jan 2023,11:06:55 WIB,2023-01-02 04:06:55+00:00,"-6.81,107.10",6.81 LS,107.10 BT,2.4,10 km,Pusat gempa berada di darat 4 km barat laut Kab. Cianjur,"II-III Pacet, II-III Ciseupan, II-III Kota Cianjur"
+02 Jan 2023,10:14:46 WIB,2023-01-02 03:14:46+00:00,"-2.50,140.72",2.50 LS,140.72 BT,3.5,10 km,Pusat gempa berada di darat 14 km Timur Laut Kota Jayapura,II Kota Jayapura
+02 Jan 2023,07:55:09 WIB,2023-01-02 00:55:09+00:00,"-2.37,140.69",2.37 LS,140.69 BT,3.5,10 km,Pusat gempa berada di laut 23 km Timur Laut Kota Jayapura,II Kota Jayapura
+02 Jan 2023,06:56:44 WIB,2023-01-01 23:56:44+00:00,"-2.41,140.73",2.41 LS,140.73 BT,2.6,10 km,Pusat gempa berada di laut 22 km Timur Laut Kota Jayapura,II Kota Jayapura
 02 Jan 2023,01:24:33 WIB,2023-01-01 18:24:33+00:00,"-2.53,140.74",2.53 LS,140.74 BT,4.9,10 km,Pusat gempa berada di darat 14 km Timur Laut Kota Jayapura,"IV Kota Jayapura, IV Kabupaten Jayapura"
+02 Jan 2023,00:46:56 WIB,2023-01-01 17:46:56+00:00,"-2.43,140.64",2.43 LS,140.64 BT,3.3,4 km,Pusat gempa berada di laut 15 km Timur Laut Kota Jayapura,II Kota Jayapura
+01 Jan 2023,23:59:32 WIB,2023-01-01 16:59:32+00:00,"-2.49,140.69",2.49 LS,140.69 BT,3.6,10 km,Pusat gempa berada di darat 12 km Timur Laut Kota Jayapura,II Kota Jayapura
 01 Jan 2023,22:55:07 WIB,2023-01-01 15:55:07+00:00,"2.07,98.91",2.07 LU,98.91 BT,3.8,5 km,Pusat gempa berada di darat 8 km Barat Laut Tapanuli Utara,"III Tarutung, III Sipahutar"
+01 Jan 2023,21:56:08 WIB,2023-01-01 14:56:08+00:00,"-2.46,140.71",2.46 LS,140.71 BT,3.3,5 km,Pusat gempa berada di laut 16 km Timur Laut Kota Jayapura,"II Kota Jayapura, II Kab. Jayapura"
+01 Jan 2023,21:43:43 WIB,2023-01-01 14:43:43+00:00,"-2.47,140.74",2.47 LS,140.74 BT,3.1,10 km,Pusat gempa berada di laut 18 km Timur Laut Kota Jayapura,"II Kota Jayapura, II Kab. Jayapura"
 01 Jan 2023,18:42:09 WIB,2023-01-01 11:42:09+00:00,"-6.80,107.08",6.80 LS,107.08 BT,1.9,12 km,Pusat gempa berada di darat 6 km Barat Laut Kab Cianjur,II Pacet
 01 Jan 2023,17:52:39 WIB,2023-01-01 10:52:39+00:00,"-6.79,107.08",6.79 LS,107.08 BT,3.0,10 km,Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur,"II - III Cipanas, II - III Pacet, II - III Cugenang"
 01 Jan 2023,00:22:07 WIB,2022-12-31 17:22:07+00:00,"5.29,95.69",5.29 LU,95.69 BT,3.7,8 km,Pusat gempa berada didarat 10 km TimurLaut Jantho-Aceh Besar,II - III Sigli

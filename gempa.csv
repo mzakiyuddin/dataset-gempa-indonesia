@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+03 Feb 2023,06:05:05 WIB,2023-02-02 23:05:05+00:00,"2.61,128.18",2.61 LU,128.18 BT,5.0,19 km,Pusat gempa berada di laut 63 km barat laut Daruba,II - III Morotai
+02 Feb 2023,20:45:35 WIB,2023-02-02 13:45:35+00:00,"-4.07,128.09",4.07 LS,128.09 BT,3.5,10 km,Pusat gempa berada di laut 43 km selatan Ambon,II Ambon
+02 Feb 2023,19:45:55 WIB,2023-02-02 12:45:55+00:00,"-7.28,106.14",7.28 LS,106.14 BT,4.4,25 km,Pusat gempa berada di laut 40 km barat daya Bayah,"III Bayah, III Malingping, III Ciracap, III Surade, II Sukabumi, II Cianjur, II Pelabuhan Ratu, II Cipanas, II Lebak"
+02 Feb 2023,19:19:12 WIB,2023-02-02 12:19:12+00:00,"-5.71,103.94",5.71 LS,103.94 BT,4.7,34 km,Pusat gempa berada di laut 57 km Tenggara Pesisir Barat,"III Pesisir Barat, III Tanggamus, II Liwa, II Lampung Barat"
 01 Feb 2023,22:57:21 WIB,2023-02-01 15:57:21+00:00,"-7.27,107.73",7.27 LS,107.73 BT,4.3,3 km,Pusat gempa berada di darat 19 km Baratdaya Kab. Garut,"IV Garut, II Bandung, II Lembang, II Pangalengan, II Pacet, II Cileunyi, II Sumedang, IV Pasirwangi, IV Cisurupan, IV Bayongbong, IV Samarang"
 01 Feb 2023,22:01:25 WIB,2023-02-01 15:01:25+00:00,"-8.82,116.13",8.82 LS,116.13 BT,2.6,12 km,Pusat gempa berada di darat 15 km Baratdaya Lombok Barat,"III Lombok Barat, III Lombok Tengah"
 01 Feb 2023,16:33:47 WIB,2023-02-01 09:33:47+00:00,"-5.30,103.35",5.30 LS,103.35 BT,4.6,39 km,Pusat gempa berada di laut 56 km Tenggara Kaur,II Sekincau

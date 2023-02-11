@@ -1,4 +1,14 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+11 Feb 2023,07:12:29 WIB,2023-02-11 00:12:29+00:00,"-2.50,140.61",2.50 LS,140.61 BT,3.2,4 km,Pusat gempa berada di darat 12 km Barat Laut Kota Jayapura,II-III Kota Jayapura
+11 Feb 2023,06:47:54 WIB,2023-02-10 23:47:54+00:00,"-2.41,140.62",2.41 LS,140.62 BT,3.1,12 km,Pusat gempa berada di laut 18 km Barat Laut Kota Jayapura,II Kota Jayapura
+11 Feb 2023,06:36:32 WIB,2023-02-10 23:36:32+00:00,"-2.51,140.63",2.51 LS,140.63 BT,2.5,10 km,Pusat gempa berada di darat 10 km Barat Laut Kota Jayapura,II Kota Jayapura
+11 Feb 2023,06:23:06 WIB,2023-02-10 23:23:06+00:00,"-2.44,140.69",2.44 LS,140.69 BT,3.5,6 km,Pusat gempa berada di laut 11 km Barat Laut Kota Jayapura,II Kota Jayapura
+11 Feb 2023,03:37:47 WIB,2023-02-10 20:37:47+00:00,"-2.49,140.67",2.49 LS,140.67 BT,4.0,10 km,Pusat gempa berada di darat 7 km BaratLaut kota Jayapura,III-IV Kota Jayapura
+11 Feb 2023,00:39:09 WIB,2023-02-10 17:39:09+00:00,"-2.55,140.65",2.55 LS,140.65 BT,4.1,10 km,Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura,III - IV Kota Jayapura
+10 Feb 2023,23:45:12 WIB,2023-02-10 16:45:12+00:00,"-3.56,119.15",3.56 LS,119.15 BT,3.2,10 km,Pusat gempa berada di laut 24 Km Tenggara Polewalimandar,"II Polewali, II Majene"
+10 Feb 2023,23:30:22 WIB,2023-02-10 16:30:22+00:00,"-2.48,140.64",2.48 LS,140.64 BT,2.6,30 km,Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura,II Kota Jayapura
+10 Feb 2023,21:27:19 WIB,2023-02-10 14:27:19+00:00,"-2.49,140.66",2.49 LS,140.66 BT,3.4,10 km,Pusat gempa berada di darat 8 km barat laut Kota Jayapura,II-III Kota Jayapura
+10 Feb 2023,20:26:57 WIB,2023-02-10 13:26:57+00:00,"-2.53,140.66",2.53 LS,140.66 BT,4.0,10 km,Pusat gempa berada di darat 6 km Barat Laut Kota Jayapura,III-IV Kota Jayapura
 10 Feb 2023,17:36:01 WIB,2023-02-10 10:36:01+00:00,"-2.43,140.63",2.43 LS,140.63 BT,2.9,10 km,Pusat gempa berada di darat 15 km BaratLaut Kota Jayapura,II Kota Jayapura
 10 Feb 2023,15:54:36 WIB,2023-02-10 08:54:36+00:00,"-2.46,140.62",2.46 LS,140.62 BT,3.5,9 km,Pusat gempa berada di darat 14 km barat laut Kota Jayapura,II - III Kota Jayapura
 10 Feb 2023,12:36:59 WIB,2023-02-10 05:36:59+00:00,"-2.46,140.66",2.46 LS,140.66 BT,3.0,10 km,Pusat gempa berada di laut 10 km barat laut Kota Jayapura,II Kota Jayapura

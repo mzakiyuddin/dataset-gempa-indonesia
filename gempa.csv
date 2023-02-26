@@ -1,4 +1,6 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+26 Feb 2023,12:52:48 WIB,2023-02-26 05:52:48+00:00,"1.72,125.89",1.72 LU,125.89 BT,5.0,10 km,Pusat gempa berada di laut 90 Km Timur Laut Bitung,"III Bitung, II Manado"
+26 Feb 2023,12:22:16 WIB,2023-02-26 05:22:16+00:00,"-2.54,140.68",2.54 LS,140.68 BT,2.2,3 km,Pusat gempa berada di darat 4 km Barat Daya Kota Jayapura,II Kota Jayapura
 25 Feb 2023,20:26:14 WIB,2023-02-25 13:26:14+00:00,"-9.08,118.90",9.08 LS,118.90 BT,3.6,10 km,Pusat gempa berada di laut 46 km Barat laut Tambolaka,III Bima
 25 Feb 2023,09:21:52 WIB,2023-02-25 02:21:52+00:00,"-2.53,140.68",2.53 LS,140.68 BT,3.1,5 km,Pusat gempa berada di darat 4Km BaratLaut Kota Jayapura,II-III Kota Jayapura
 25 Feb 2023,09:08:31 WIB,2023-02-25 02:08:31+00:00,"-5.72,103.87",5.72 LS,103.87 BT,4.8,29 km,Pusat gempa berada di Laut 59Km BaratDaya Pesisir Barat,"II Liwa, II Krui"

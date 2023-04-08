@@ -23,7 +23,8 @@ def get_and_combine():
     final = pd.concat([new, before]).reset_index(drop=True)
 
     # change column format
-    final['DateTime'] = pd.to_datetime(final['DateTime'])
+    final['DateTime'] = pd.to_datetime(
+        final['DateTime'], format='%Y-%m-%d %H:%M:%S.%f')
 
     # sort dataframe
     final = final.sort_values(by=['DateTime'], ascending=[False])

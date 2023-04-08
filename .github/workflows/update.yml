@@ -3,6 +3,9 @@ name: Update Gempa
 on:
   schedule:
     - cron: "0 */12 * * *" #“At minute 0 past every 12th hour.”
+  push:
+    branches:
+      - "**"
 
 jobs:
   run:

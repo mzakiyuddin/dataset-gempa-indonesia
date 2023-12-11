@@ -4,7 +4,12 @@ import pandas as pd
 
 def get_data():
     url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json"
-    resp = req.get(url)
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) \
+            AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+    }
+    resp = req.get(url, headers=headers)
 
     print(resp.status_code)
     print(resp.content)

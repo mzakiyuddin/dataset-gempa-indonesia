@@ -5,6 +5,10 @@ import pandas as pd
 def get_data():
     url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json"
     resp = req.get(url)
+
+    print(resp.status_code)
+    print(resp.content)
+
     data = resp.json()['Infogempa']['gempa']
     df = pd.DataFrame(data)
     df['DateTime'] = pd.to_datetime(

@@ -6,8 +6,7 @@ def get_data():
     url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json"
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) \
-            AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
     }
     resp = req.get(url, headers=headers)
 

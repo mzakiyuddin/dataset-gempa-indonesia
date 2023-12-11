@@ -1,5 +1,20 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
+11 Des 2023,02:52:14 WIB,2023-12-10 19:52:14+00:00,"-4.39,139.67",4.39 LS,139.67 BT,5.5,72 km,Pusat gempa berada di darat 55 km TimurLaut Yahukimo,III-IV Oksibil
+10 Des 2023,11:49:46 WIB,2023-12-10 04:49:46+00:00,"-3.55,141.05",3.55 LS,141.05 BT,5.3,105 km,Pusat gempa berada di darat 32 km Tenggara Senggi-Keerom,"III Kota Jayapura, II Kab. Jayapura"
+08 Des 2023,02:00:45 WIB,2023-12-07 19:00:45+00:00,"-6.73,106.61",6.73 LS,106.61 BT,4.0,5 km,Pusat gempa berada di darat 25 km Barat Daya Kota Bogor,III Kalapanunggal Sukabumi
+07 Des 2023,21:00:02 WIB,2023-12-07 14:00:02+00:00,"-8.73,115.37",8.73 LS,115.37 BT,3.1,10 km,Pusat gempa berada di laut 17 km Timur Laut Kuta Selatan,II Nusa Dua
+07 Des 2023,17:53:39 WIB,2023-12-07 10:53:39+00:00,"-6.82,107.10",6.82 LS,107.10 BT,2.9,8 km,Pusat gempa berada di darat 4 Km Barat Laut Kabupaten Cianjur,"III Cianjur, III Cugenang"
+07 Des 2023,16:59:56 WIB,2023-12-07 09:59:56+00:00,"-6.85,107.08",6.85 LS,107.08 BT,2.8,5 km,Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur,"III Cianjur, III Cugenang, III Cipanas, III Pacet"
+06 Des 2023,21:20:06 WIB,2023-12-06 14:20:06+00:00,"-6.76,106.54",6.76 LS,106.54 BT,3.0,5 km,Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi,"II-III Bogor Barat, II-III Cisolok, II-III Bayah, II-III Leuwiliang"
+06 Des 2023,20:20:02 WIB,2023-12-06 13:20:02+00:00,"-6.77,106.52",6.77 LS,106.52 BT,3.0,5 km,Pusat gempa berada di darat 24 km barat laut Kab. Sukabumi,"II-III Bogor Barat, II-III Cisolok, II-III Bayah, II-III Leuwiliang"
+05 Des 2023,19:50:51 WIB,2023-12-05 12:50:51+00:00,"-6.82,107.07",6.82 LS,107.07 BT,2.6,11 km,Pusat gempa berada di darat 7 km barat laut Kab. Cianjur,"II-III Cugenang, II-III Cianjur"
+05 Des 2023,19:36:37 WIB,2023-12-05 12:36:37+00:00,"2.64,128.24",2.64 LU,128.24 BT,5.6,18 km,Pusat gempa berada di laut 64 km timur laut Pulaudoi,"IV Morotai, III Halmahera Utara"
+05 Des 2023,16:14:13 WIB,2023-12-05 09:14:13+00:00,"-7.23,107.73",7.23 LS,107.73 BT,3.5,5 km,Pusat gempa berada di darat 18 km Baratdaya Garut,"III Garut, II-III Majalaya, II-III Kertasari, II-III Ciwidey, II-III Balegede, II-III Rancabali, II Pangalengan"
+04 Des 2023,18:12:53 WIB,2023-12-04 11:12:53+00:00,"5.23,96.21",5.23 LU,96.21 BT,4.3,11 km,Pusat gempa berada di Darat 27 Km BaratLaut Kab. Pidie Jaya,"III Pidie Jaya, III Pidie, II Bener Meriah"
+03 Des 2023,08:16:28 WIB,2023-12-03 01:16:28+00:00,"-8.95,118.79",8.95 LS,118.79 BT,4.7,67 km,Pusat gempa berada di Laut 54 Tenggara Kota Bima,II-III Bima
+03 Des 2023,01:32:02 WIB,2023-12-02 18:32:02+00:00,"-7.22,107.43",7.22 LS,107.43 BT,2.7,6 km,"Pusat gempa berada di darat, 24 km BaratDaya Kab. Bandung","II - III Kab. Bandung, III Cianjur"
+02 Des 2023,21:57:22 WIB,2023-12-02 14:57:22+00:00,"-2.67,129.62",2.67 LS,129.62 BT,5.0,10 km,Pusat gempa berada di laut 21 km TimurLaut Wahai,II Kairatu
 28 Nov 2023,21:42:13 WIB,2023-11-28 14:42:13+00:00,"-6.85,107.07",6.85 LS,107.07 BT,2.2,9 km,Pusat gempa berada di darat 8 km BaratDaya Kabupaten Cianjur,II Cianjur
 28 Nov 2023,19:54:31 WIB,2023-11-28 12:54:31+00:00,"-6.81,107.07",6.81 LS,107.07 BT,2.1,7 km,Pusat gempa berada di darat 7 km BaratLaut Kabupaten Cianjur,II Cianjur
 28 Nov 2023,18:40:19 WIB,2023-11-28 11:40:19+00:00,"-2.38,120.89",2.38 LS,120.89 BT,3.4,2 km,Pusat gempa berada di darat 38 km BaratLaut Luwu Timur,III Angkona

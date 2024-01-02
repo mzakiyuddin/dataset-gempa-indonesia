@@ -1,5 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
+02 Jan 2024,14:35:22 WIB,2024-01-02 07:35:22+00:00,"-6.88,107.99",6.88 LS,107.99 BT,2.7,10 km,Pusat gempa berada di darat 8 km Tenggara Kab. Sumedang,II Sumedang
+02 Jan 2024,11:46:32 WIB,2024-01-02 04:46:32+00:00,"-10.06,123.75",10.06 LS,123.75 BT,5.1,37 km,Pusat gempa berada di darat 16 km BaratDaya Kab.Kupang,"II Kupang, II Kab. Kupang"
+02 Jan 2024,08:03:56 WIB,2024-01-02 01:03:56+00:00,"-8.35,108.47",8.35 LS,108.47 BT,3.7,14 km,Pusat gempa berada dilaut 72 km BaratDaya Kab. Pangandaran,"II Pangandaran, II Legokjawa, II Sindangsari, II Cikalong"
 01 Jan 2024,20:46:48 WIB,2024-01-01 13:46:48+00:00,"-6.82,107.92",6.82 LS,107.92 BT,4.5,10 km,Pusat gempa berada di darat 4 km Utara Kab. Sumedang,"III Rancakalong, III Jatinangor, III Bandung, II Cirebon, II Garut, II Subang"
 01 Jan 2024,14:52:44 WIB,2024-01-01 07:52:44+00:00,"-0.20,123.65",0.20 LS,123.65 BT,5.4,47 km,Pusat gempa berada di laut 74 km BaratDaya Bolaanguki,"III Luwuk, III Bolaang Mongondow Selatan , III Kotamobagu, II - III kab. Gorontalo, II Minahasa Tenggara"
 01 Jan 2024,12:22:56 WIB,2024-01-01 05:22:56+00:00,"-7.97,117.87",7.97 LS,117.87 BT,4.9,20 km,"Pusat gempa berada di laut, 76 km TimurLaut Sumbawa","II - III Sumbawa Besar, II-III Bima, II-III Dompu"

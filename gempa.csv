@@ -1,6 +1,10 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
 17 Feb 2024,05:28:17 WIB,2024-02-16 22:28:17+00:00,"-8.55,118.37",8.55 LS,118.37 BT,4.5,114 km,Pusat gempa berada di darat 10 km BaratDaya Bompu,II Sumbawa
+27 Jan 2024,16:33:17 WIB,2024-01-27 09:33:17+00:00,"-11.78,113.35",11.78 LS,113.35 BT,5.6,10 km,Pusat gempa berada di laut 391 km Barat Daya Kuta Selatan,"III Kuta, III Mataram , III Lombok Barat, II Denpasar, II Gianyar"
+27 Jan 2024,15:45:44 WIB,2024-01-27 08:45:44+00:00,"-0.56,100.52",0.56 LS,100.52 BT,3.1,4 km,Pusat gempa berada di darat 14 km Barat Daya Batusangkar - Tanah Datar,"II Bukittinggi, II Padang Panjang"
+27 Jan 2024,14:36:55 WIB,2024-01-27 07:36:55+00:00,"0.12,99.99",0.12 LU,99.99 BT,3.2,3 km,Pusat gempa berada di darat 11 km Tenggara Talu-Pasaman Barat,II Pasaman Barat
+27 Jan 2024,08:47:27 WIB,2024-01-27 01:47:27+00:00,"-6.22,120.29",6.22 LS,120.29 BT,4.8,6 km,Pusat gempa berada dilaut 25 Km Barat Laut Selayar,III Selayar
 25 Jan 2024,21:41:28 WIB,2024-01-25 14:41:28+00:00,"-8.99,115.69",8.99 LS,115.69 BT,4.8,101 km,Pusat gempa berada di laut 55 km Tenggara Kuta Selatan,"III Mataram, III Lombok Timur , III Lombok Barat, III Lombok Tengah , II-III Kuta, II-III Kuta Selatan, II-III Tabanan, II-III Klungkung, II-III Bangli, II-III Gianyar, II-III Denpasar, II Lombok Utara, II Sumbawa Barat"
 25 Jan 2024,19:24:13 WIB,2024-01-25 12:24:13+00:00,"-8.26,121.20",8.26 LS,121.20 BT,5.6,11 km,Pusat gempa berada di laut 47 km BaratLaut Mbay,"III Ruteng, III Waingapu, III Bajawa, III Ende, III Maumere, III Labuan Bajo, II Kupang, III Kota Bima"
 25 Jan 2024,15:03:17 WIB,2024-01-25 08:03:17+00:00,"-10.17,123.95",10.17 LS,123.95 BT,3.7,5 km,Pusat gempa berada di darat 21 km Tenggara Kab. Kupang,III Kabupaten Kupang

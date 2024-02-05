@@ -1,6 +1,10 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
 17 Feb 2024,05:28:17 WIB,2024-02-16 22:28:17+00:00,"-8.55,118.37",8.55 LS,118.37 BT,4.5,114 km,Pusat gempa berada di darat 10 km BaratDaya Bompu,II Sumbawa
+05 Feb 2024,17:25:16 WIB,2024-02-05 10:25:16+00:00,"0.77,121.38",0.77 LU,121.38 BT,4.9,73 km,Pusat gempa berada di darat 22 km Tenggara Buol,"III Tolitoli, III Pohuwatu, II - III Boalemo"
+05 Feb 2024,08:27:54 WIB,2024-02-05 01:27:54+00:00,"-6.82,107.08",6.82 LS,107.08 BT,2.1,9 km,Pusat gempa berada di darat 6 km Barat laut Kab. Cianjur,"II Pacet, II Cugenang, II Cianjur"
+05 Feb 2024,08:25:23 WIB,2024-02-05 01:25:23+00:00,"-6.79,107.08",6.79 LS,107.08 BT,2.9,6 km,Pusat gempa berada di darat 7 Km Baratlaut Cianjur,"III Pacet, III Cugenang, III Cianjur"
+05 Feb 2024,07:52:22 WIB,2024-02-05 00:52:22+00:00,"-2.14,100.41",2.14 LS,100.41 BT,5.7,16 km,Pusat gempa berada di laut 89 km BaratDaya Pesisir Selatan,"III Mentawai, III Padang, III Agam, III Padang Pariaman, II Pesisir Selatan, II Padang Panjang, II Bukittinggi"
 04 Feb 2024,11:41:57 WIB,2024-02-04 04:41:57+00:00,"-0.72,133.32",0.72 LS,133.32 BT,3.7,6 km,Pusat gempa berada di darat 31 km TimurLaut Kebar,II Tambrauw
 03 Feb 2024,15:25:10 WIB,2024-02-03 08:25:10+00:00,"2.49,127.06",2.49 LU,127.06 BT,5.2,10 km,Pusat gempa berada di laut 83 km Barat Laut Pulau Doi,II-III Tobelo
 02 Feb 2024,20:03:08 WIB,2024-02-02 13:03:08+00:00,"-6.08,104.30",6.08 LS,104.30 BT,4.0,30 km,Pusat gempa berada di laut 78 km BaratDaya Tanggamus,II Kota Agung

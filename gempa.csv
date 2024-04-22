@@ -1,5 +1,11 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
+22 Apr 2024,18:18:48 WIB,2024-04-22 11:18:48+00:00,"0.54,123.93",0.54 LU,123.93 BT,4.8,247 km,Pusat gempa berada di darat 19 km Barat Laut Bolaanguki,I-II Kota Gorontalo
+22 Apr 2024,18:10:47 WIB,2024-04-22 11:10:47+00:00,"-9.11,111.31",9.11 LS,111.31 BT,5.1,10 km,Pusat gempa berada di laut 105 km Tenggara Pacitan,"II-III Pacitan, II-III Trenggalek, II-III Gunung Kidul, II Bantul, II Kota Yogyakarta, II Kulonprogo, II Blitar, II Blora, II-III Wonogiri"
+22 Apr 2024,16:05:16 WIB,2024-04-22 09:05:16+00:00,"-7.10,111.85",7.10 LS,111.85 BT,3.3,9 km,Pusat gempa berada di darat 7 km BaratLaut Bojonegoro,"II-III Tuban, III Bojonegoro"
+22 Apr 2024,13:06:05 WIB,2024-04-22 06:06:05+00:00,"-2.04,100.65",2.04 LS,100.65 BT,4.6,27 km,Pusat gempa berada di laut 30 Km Baratdaya Airhaji Pesisir Selatan,"III Pesisir Selatan, III Padang, II Kerinci"
+22 Apr 2024,10:03:13 WIB,2024-04-22 03:03:13+00:00,"1.09,127.02",1.09 LU,127.02 BT,4.6,13 km,Pusat gempa berada di laut 49 km Baratlaut Jailolo,III-IV Ternate
+22 Apr 2024,07:48:02 WIB,2024-04-22 00:48:02+00:00,"-8.38,109.24",8.38 LS,109.24 BT,4.9,39 km,Pusat gempa berada di laut 77 Km Tenggara Cilacap,"III Pangandaran, III Ciamis, II Bantul, II Cilacap, II Kebumen, II Banjarnegara"
 19 Apr 2024,14:22:55 WIB,2024-04-19 07:22:55+00:00,"-2.93,119.40",2.93 LS,119.40 BT,3.5,6 km,Pusat gempa berada di darat 8 km Tenggara Mamasa,III Mamasa
 18 Apr 2024,13:03:40 WIB,2024-04-18 06:03:40+00:00,"-0.69,133.53",0.69 LS,133.53 BT,3.9,18 km,"Pusat gempa berada di darat 54 km timur laut Kebar, Manokwari",II-III Kebar
 17 Apr 2024,15:32:30 WIB,2024-04-17 08:32:30+00:00,"-2.53,121.46",2.53 LS,121.46 BT,3.2,5 km,Pusat gempa berada didarat 32 km Timurlaut Luwu Timur,II-III Sorowako

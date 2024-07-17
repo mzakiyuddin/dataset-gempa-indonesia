@@ -1,5 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
+17 Jul 2024,07:08:01 WIB,2024-07-17 00:08:01+00:00,"-3.80,128.31",3.80 LS,128.31 BT,3.3,15 km,Pusat gempa berada di laut 18 km Tenggara Ambon,II Ambon
+17 Jul 2024,06:39:32 WIB,2024-07-16 23:39:32+00:00,"1.30,126.12",1.30 LU,126.12 BT,5.6,10 km,Pusat gempa berada di laut 111 km tenggara Bitung,"III Manado, III Minahasa, III Minahasa Utara, III Bolaang Mongondow Selatan, III Bitung, III Tomohon, III Ternate, III Sitaro, III Bolaang Mongondow Timur"
+16 Jul 2024,22:57:03 WIB,2024-07-16 15:57:03+00:00,"-7.21,109.91",7.21 LS,109.91 BT,3.6,20 km,Pusat gempa berada di darat 17 km timur laut Wonosobo,"III Wonosobo, III Dieng, III Batang, III Kendal, III Temanggung"
 16 Jul 2024,09:53:09 WIB,2024-07-16 02:53:09+00:00,"-4.35,101.99",4.35 LS,101.99 BT,4.9,36 km,Pusat gempa berada di laut 72 km BaratDaya Seluma,II-III Kota Bengkulu
 15 Jul 2024,19:55:53 WIB,2024-07-15 12:55:53+00:00,"-3.79,120.00",3.79 LS,120.00 BT,3.1,5 km,Pusat gempa berada di darat 2 km BaratDaya Sidenreng Rappang,II-III Sidenreng Rappang
 15 Jul 2024,15:54:21 WIB,2024-07-15 08:54:21+00:00,"-2.40,120.89",2.40 LS,120.89 BT,3.3,5 km,Pusat gempa berada di darat 37 km barat laut Luwu Timur,III Angkona

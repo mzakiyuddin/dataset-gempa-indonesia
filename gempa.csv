@@ -1,6 +1,7 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
-12 Agu 2024,18:36:13 WIB,2024-08-12 11:36:13+00:00,"2.38,126.65",2.38 LU,126.65 BT,5.3,10 km,"Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",II-III Tagulandang
+13 Agu 2024,10:03:52 WIB,2024-08-13 03:03:52+00:00,"-9.18,112.59",9.18 LS,112.59 BT,4.9,57 km,Pusat gempa berada di laut 115 km Tenggara Kab. Malang,"III - IV Kabupaten Malang, III Blitar , II Jember, II Lumajang"
+12 Agu 2024,18:36:13 WIB,2024-08-12 11:36:13+00:00,"2.38,126.65",2.38 LU,126.65 BT,5.3,10 km,"Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi","II-III Tagulandang , II-III Minahasa Tenggara"
 12 Agu 2024,04:44:58 WIB,2024-08-11 21:44:58+00:00,"-3.15,118.82",3.15 LS,118.82 BT,2.3,3 km,Pusat gempa berada di darat 16 km barat daya Majene,II - III Majene
 10 Agu 2024,15:20:23 WIB,2024-08-10 08:20:23+00:00,"2.80,117.74",2.80 LU,117.74 BT,4.6,11 km,Pusat gempa berada di darat 63 km tenggara Tarakan,"III-IV Tarakan, III-IV Tanjung Selor, III-IV Berau"
 10 Agu 2024,14:08:02 WIB,2024-08-10 07:08:02+00:00,"-2.61,118.74",2.61 LS,118.74 BT,3.9,8 km,Pusat gempa berada di laut 50 km barat laut Majene,III Mamuju

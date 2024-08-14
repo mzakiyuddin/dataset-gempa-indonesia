@@ -1,5 +1,10 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
 23 Okt 2024,17:55:58 WIB,2024-10-23 10:55:58+00:00,"-1.37,119.61",1.37 LS,119.61 BT,4.3,9 km,Pusat gempa berada di darat 12 km tenggara lalundu Donggala,III-IV Rio Pakava
+14 Agu 2024,02:54:01 WIB,2024-08-13 19:54:01+00:00,"-3.40,135.42",3.40 LS,135.42 BT,4.0,35 km,Pusat gempa berada di darat 10 km barat daya Nabire,III Nabire
+13 Agu 2024,21:00:27 WIB,2024-08-13 14:00:27+00:00,"-2.40,134.29",2.40 LS,134.29 BT,3.2,10 km,Pusat gempa berada di darat 43 km BaratLaut Teluk Wondama,II Teluk Wondama
+13 Agu 2024,20:41:17 WIB,2024-08-13 13:41:17+00:00,"-3.68,128.15",3.68 LS,128.15 BT,2.5,9 km,Pusat gempa berada di laut 4 km barat Ambon,II Ambon
+13 Agu 2024,20:27:27 WIB,2024-08-13 13:27:27+00:00,"5.28,95.51",5.28 LU,95.51 BT,4.0,3 km,Pusat gempa berada di darat 11 km BaratLaut Jantho,"III Jantho, II - III Aceh Besar"
+13 Agu 2024,20:04:38 WIB,2024-08-13 13:04:38+00:00,"5.29,95.51",5.29 LU,95.51 BT,4.4,2 km,Pusat gempa berada di darat 12 km barat laut Jantho-Aceh Besar,"III-IV Banda Aceh, III-IV Aceh Besar, II Lammo"
 13 Agu 2024,10:03:52 WIB,2024-08-13 03:03:52+00:00,"-9.18,112.59",9.18 LS,112.59 BT,4.9,57 km,Pusat gempa berada di laut 115 km Tenggara Kab. Malang,"III - IV Kabupaten Malang, III Blitar , II Jember, II Lumajang"
 12 Agu 2024,18:36:13 WIB,2024-08-12 11:36:13+00:00,"2.38,126.65",2.38 LU,126.65 BT,5.3,10 km,"Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi","II-III Tagulandang , II-III Minahasa Tenggara"
 12 Agu 2024,04:44:58 WIB,2024-08-11 21:44:58+00:00,"-3.15,118.82",3.15 LS,118.82 BT,2.3,3 km,Pusat gempa berada di darat 16 km barat daya Majene,II - III Majene

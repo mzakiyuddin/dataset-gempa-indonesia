@@ -1,4 +1,19 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+02 Des 2024,19:40:03 WIB,2024-12-02 12:40:03+00:00,"-8.11,107.10",8.11 LS,107.10 BT,4.5,21 km,Pusat gempa berada di laut 129 km BaratDaya Kab. Bandung,"III Bungbulang, III Cisompet, III Cijulang, III Sindangbarang, III Babadan, II Bayongbong, II Cikajang"
+01 Des 2024,04:11:28 WIB,2024-11-30 21:11:28+00:00,"-2.97,128.81",2.97 LS,128.81 BT,4.2,13 km,Pusat gempa berada di darat 16 Km Tengara Taniwel Timur-SBB,II - III Masohi
+30 Nov 2024,07:58:20 WIB,2024-11-30 00:58:20+00:00,"-8.29,122.16",8.29 LS,122.16 BT,4.1,10 km,Pusat gempa berada di laut 37 km barat laut Maumere,II-III Maumere
+29 Nov 2024,23:05:49 WIB,2024-11-29 16:05:49+00:00,"-4.18,103.64",4.18 LS,103.64 BT,4.3,5 km,"Pusat gempa berada di darat, 44 km BaratDaya OGANKOMERINGULU",IV Semendo
+29 Nov 2024,22:12:10 WIB,2024-11-29 15:12:10+00:00,"-4.17,103.66",4.17 LS,103.66 BT,3.6,5 km,Pusat gempa berada di darat 41 km Barat Daya Ogan Kumering Ulu,II-III Muara Enim
+29 Nov 2024,20:05:07 WIB,2024-11-29 13:05:07+00:00,"-4.16,103.67",4.16 LS,103.67 BT,3.8,5 km,Pusat gempa berada di darat 40 km barat daya Ogan Komering Ulu,II Semendo
+29 Nov 2024,12:49:50 WIB,2024-11-29 05:49:50+00:00,"-8.99,118.48",8.99 LS,118.48 BT,4.8,66 km,Pusat gempa berada di laut 50 km tenggara Dompu,"III Sumbawa, III Dompu, III Bima"
+29 Nov 2024,11:49:43 WIB,2024-11-29 04:49:43+00:00,"-9.07,114.65",9.07 LS,114.65 BT,4.2,57 km,Pusat gempa berada di laut 70 km barat daya Kuta Selatan Bali,"III Banyuwangi, III Denpasar, III Badung"
+29 Nov 2024,11:16:13 WIB,2024-11-29 04:16:13+00:00,"-1.06,120.43",1.06 LS,120.43 BT,3.9,5 km,Pusat gempa berada di darat 51 Km Baratlaut Poso,III Sausu
+29 Nov 2024,08:02:32 WIB,2024-11-29 01:02:32+00:00,"-3.39,115.03",3.39 LS,115.03 BT,3.7,14 km,Pusat gempa berada di darat 8 km tenggara Banjar,"II Kota Banjarbaru, II Kab. Tanah Laut"
+27 Nov 2024,22:48:46 WIB,2024-11-27 15:48:46+00:00,"-0.97,119.86",0.97 LS,119.86 BT,2.2,4 km,Pusat gempa berada di darat 46 km BaratLaut Sigi,"II - III Marawola, II - III Kotarindau, II - III Kalukubula"
+27 Nov 2024,18:59:36 WIB,2024-11-27 11:59:36+00:00,"-2.50,140.55",2.50 LS,140.55 BT,2.6,10 km,Pusat gempa berada di darat 17 km barat laut Kota Jayapura,II-III Kab. Jayapura
+26 Nov 2024,20:25:21 WIB,2024-11-26 13:25:21+00:00,"-4.09,135.14",4.09 LS,135.14 BT,4.6,21 km,Pusat gempa berada di darat 90 km barat daya Nabire,II - III Nabire
+26 Nov 2024,18:19:07 WIB,2024-11-26 11:19:07+00:00,"-3.16,135.74",3.16 LS,135.74 BT,3.7,21 km,Pusat gempa berada di darat 34 km timur laut Nabire,III-IV Nabire
+24 Nov 2024,16:40:47 WIB,2024-11-24 09:40:47+00:00,"-6.98,107.15",6.98 LS,107.15 BT,2.0,6 km,"Pusat gempa berada di darat, 17 Km Tenggara KAB-CIANJUR",II Cibeber
 22 Nov 2024,14:51:03 WIB,2024-11-22 07:51:03+00:00,"2.71,128.17",2.71 LU,128.17 BT,5.4,13 km,Pusat gempa berada di laut 74 km BaratLaut Daruba,III Morotai
 22 Nov 2024,14:06:27 WIB,2024-11-22 07:06:27+00:00,"-1.04,99.80",1.04 LS,99.80 BT,3.8,44 km,Pusat gempa berada di laut 58 km BaratDaya Pariaman,"II - III Padang, II - III Padang Pariaman"
 22 Nov 2024,08:56:12 WIB,2024-11-22 01:56:12+00:00,"-6.83,120.68",6.83 LS,120.68 BT,4.0,7 km,Pusat gempa berada di laut 63 km Tenggara Selayar,"III Pulau Kayuadi, II - III Pulau Jampea"

@@ -1,4 +1,7 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+12 Jan 2025,04:03:05 WIB,2025-01-11 21:03:05+00:00,"-0.32,99.94",0.32 LS,99.94 BT,4.3,20 km,Pusat gempa berada di darat 10 km barat daya Agam,"III - IV Agam, III - IV Pasaman Barat, II - III Padang Pariaman, II - III Kota Pariaman, I - II Kota Padang, I - II Bukittinggi"
+12 Jan 2025,00:34:07 WIB,2025-01-11 17:34:07+00:00,"-7.23,107.70",7.23 LS,107.70 BT,2.2,6 km,Pusat gempa berada di darat 21 km barat daya Kabupaten Garut,II Pasirwangi
+11 Jan 2025,19:02:32 WIB,2025-01-11 12:02:32+00:00,"-4.06,123.38",4.06 LS,123.38 BT,4.5,20 km,"Pusat gempa berada di laut 19 km Timur Laut Wawonii Timur, Kab. Konawe Kepulauan","III Kendari, III Konawe, III-IV Konawe Kepulauan, II-III Buton Utara"
 11 Jan 2025,14:25:10 WIB,2025-01-11 07:25:10+00:00,"-8.88,110.97",8.88 LS,110.97 BT,4.9,10 km,Pusat gempa berada di laut 79 km barat daya Pacitan,"II - III Yogyakarta, II-III Klaten, II Karangkates"
 10 Jan 2025,09:08:04 WIB,2025-01-10 02:08:04+00:00,"2.89,117.42",2.89 LU,117.42 BT,3.5,12 km,Pusat gempa berada di darat 48 km Tenggara Bulungan,II-III Tanjung Selor
 09 Jan 2025,23:42:16 WIB,2025-01-09 16:42:16+00:00,"1.67,127.24",1.67 LU,127.24 BT,4.6,3 km,Pusat gempa berada dilaut 52 Km Barat Laut Halmahera Barat,II-III Tidore

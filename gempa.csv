@@ -1,4 +1,9 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+03 Mar 2025,07:02:06 WIB,2025-03-03 00:02:06+00:00,"-9.50,117.55",9.50 LS,117.55 BT,4.3,18 km,Pusat gempa berada di laut 113 km Tenggara Sumbawa,"II Sumbawa Barat, II Sumbawa"
+03 Mar 2025,02:19:47 WIB,2025-03-02 19:19:47+00:00,"-3.48,129.42",3.48 LS,129.42 BT,4.0,57 km,"Pusat gempa berada di laut 14 km baratdaya Tehoru, Maluku Tengah",II Amahai
+03 Mar 2025,01:42:08 WIB,2025-03-02 18:42:08+00:00,"-3.41,129.52",3.41 LS,129.52 BT,5.6,10 km,Pusat gempa berada di darat 63 Tenggara Maluku Tengah,"IV Yaputih, III Masohi"
+02 Mar 2025,23:07:45 WIB,2025-03-02 16:07:45+00:00,"0.42,124.87",0.42 LU,124.87 BT,4.7,10 km,Pusat gempa berada di laut 47 km Tenggara Tutuyan,"III Bolaang Mongondow Timur, III Kotamobagu, II Bolaang Mongondow, III Minahasa Selatan, II Bolaang Mongondow Selatan"
+02 Mar 2025,19:26:37 WIB,2025-03-02 12:26:37+00:00,"0.63,126.78",0.63 LU,126.78 BT,4.9,18 km,Pusat gempa berada di laut 67 km baratdaya Ternate,"III-IV Ternate, III Halmahera Selatan"
 02 Mar 2025,18:09:26 WIB,2025-03-02 11:09:26+00:00,"-0.76,131.35",0.76 LS,131.35 BT,3.5,10 km,Pusat gempa berada di laut 7 km timur laut Kota Sorong,II-III Kota Sorong
 02 Mar 2025,14:05:16 WIB,2025-03-02 07:05:16+00:00,"-4.06,121.78",4.06 LS,121.78 BT,2.2,4 km,"Pusat gempa berada di darat 4 km baratdaya Lalolae, Kolaka Timur",II-III Kolaka Timur
 02 Mar 2025,12:00:42 WIB,2025-03-02 05:00:42+00:00,"-8.29,110.32",8.29 LS,110.32 BT,4.4,22 km,Pusat gempa berada di laut 43 km baratdaya Bantul,"II-III Bantul, II-III Purworejo, II-III Gunungkidul, II Yogyakarta, II Sleman, II Kulonprogo, II Tulungagung, II Pacitan"

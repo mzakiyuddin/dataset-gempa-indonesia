@@ -1,4 +1,5 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+08 Mar 2025,12:19:09 WIB,2025-03-08 05:19:09+00:00,"-2.50,120.99",2.50 LS,120.99 BT,3.8,2 km,Pusat gempa berada di darat 22 km BaratLaut Luwu Timur,"III Tomoni Timur, III Malili"
 08 Mar 2025,04:18:08 WIB,2025-03-07 21:18:08+00:00,"-4.11,121.88",4.11 LS,121.88 BT,2.4,3 km,"Pusat gempa berada di darat 2 km barat daya Loea, Kolaka Timur",II - III Kolaka Timur
 07 Mar 2025,21:53:40 WIB,2025-03-07 14:53:40+00:00,"-2.50,120.97",2.50 LS,120.97 BT,3.6,3 km,Pusat gempa berada di darat 24 km barat laut Luwu Timur,II Mangkutana
 07 Mar 2025,21:31:12 WIB,2025-03-07 14:31:12+00:00,"-2.31,120.85",2.31 LS,120.85 BT,3.4,4 km,Pusat gempa berada di darat 46 km BaratLaut Luwu Timur,"III Mangkutana, II Malili"
@@ -8,7 +9,7 @@ Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Diras
 07 Mar 2025,15:34:04 WIB,2025-03-07 08:34:04+00:00,"-2.47,121.04",2.47 LS,121.04 BT,5.2,10 km,Pusat gempa berada di darat 19 km baratlaut Luwu Timur,"III-IV Malili, III-IV Mangkutana, III-IV Wasuponda, III Bungku"
 07 Mar 2025,09:09:21 WIB,2025-03-07 02:09:21+00:00,"-2.32,120.85",2.32 LS,120.85 BT,4.4,5 km,Pusat gempa berada di darat 46 km baratlaut Luwu Timur,II-III Mangkutana
 07 Mar 2025,09:07:03 WIB,2025-03-07 02:07:03+00:00,"-2.28,120.92",2.28 LS,120.92 BT,4.2,10 km,Pusat gempa berada di darat 43 km baratlaut Luwu Timur,II-III Mangkutana
-07 Mar 2025,07:28:30 WIB,2025-03-07 00:28:30+00:00,"-3.35,135.49",3.35 LS,135.49 BT,4.1,29 km,Pusat gempa berada di laut 2 km barat laut Nabire,II-III Nabire
+07 Mar 2025,07:28:30 WIB,2025-03-07 00:28:30+00:00,"-3.35,135.49",3.35 LS,135.49 BT,4.1,29 km,Pusat gempa berada di darat 2 km barat laut Nabire,II-III Nabire
 07 Mar 2025,05:19:00 WIB,2025-03-06 22:19:00+00:00,"-2.31,120.85",2.31 LS,120.85 BT,4.0,5 km,Pusat gempa berada di darat 46 km barat laut Luwu Timur,III Mangkutana
 06 Mar 2025,03:44:28 WIB,2025-03-05 20:44:28+00:00,"-9.50,117.53",9.50 LS,117.53 BT,3.6,26 km,Pusat gempa berada di laut 111 km tenggara Sumbawa Barat,III Sumbawa
 06 Mar 2025,02:01:27 WIB,2025-03-05 19:01:27+00:00,"3.43,129.46",3.43 LU,129.46 BT,2.8,10 km,"Pusat gempa berada di darat 7 km barat daya Tehoru, Maluku Tengah",II Tehoru

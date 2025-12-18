@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+18 Des 2025,12:30:19 WIB,2025-12-18 05:30:19+00:00,"1.38,125.83",1.38 LU,125.83 BT,4.6,43 km,Pusat gempa berada di laut 79 km Timur Bitung,"III Bitung, III Tondano, III Manado"
+18 Des 2025,12:23:39 WIB,2025-12-18 05:23:39+00:00,"-6.74,105.46",6.74 LS,105.46 BT,4.0,10 km,Pusat gempa berada di laut 16 km Barat Daya Sumur,II-III Sumur
+18 Des 2025,11:22:46 WIB,2025-12-18 04:22:46+00:00,"-8.82,110.31",8.82 LS,110.31 BT,4.8,13 km,Pusat gempa berada di laut 97 km BaratDaya Gunungkidul,"II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri"
+18 Des 2025,10:40:38 WIB,2025-12-18 03:40:38+00:00,"4.85,96.06",4.85 LU,96.06 BT,4.4,11 km,Pusat gempa berada di darat 29 km Barat Daya Kab. Pidiejaya Aceh,"II Aceh Jaya, II Aceh Barat Daya"
 17 Des 2025,11:02:05 WIB,2025-12-17 04:02:05+00:00,"-8.32,124.76",8.32 LS,124.76 BT,3.8,5 km,Pusat gempa berada di darat 23 km Timur Alor,II-III Alor
 16 Des 2025,12:41:28 WIB,2025-12-16 05:41:28+00:00,"-4.71,122.71",4.71 LS,122.71 BT,4.1,7 km,Pusat gempa berada di darat 14 km Utara MUNA-SULTRA,"III-IV Muna, III-IV Muna Barat"
 14 Des 2025,07:58:15 WIB,2025-12-14 00:58:15+00:00,"-3.35,101.26",3.35 LS,101.26 BT,4.8,54 km,Pusat gempa berada di laut 87 km tenggara Mukomuko,"III Mukomuko, III Bengkulu Utara"

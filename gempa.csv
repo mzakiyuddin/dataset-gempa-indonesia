@@ -1,4 +1,7 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+28 Des 2025,17:21:36 WIB,2025-12-28 10:21:36+00:00,"0.76,127.37",0.76 LU,127.37 BT,2.9,7 km,Pusat gempa berada di darat 1 km Selatan Ternate,III Ternate
+28 Des 2025,09:15:46 WIB,2025-12-28 02:15:46+00:00,"-0.17,100.11",0.17 LS,100.11 BT,4.7,10 km,Pusat gempa berada di darat 18 km timur laut Agam,"III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh"
+28 Des 2025,09:11:34 WIB,2025-12-28 02:11:34+00:00,"-0.17,100.10",0.17 LS,100.10 BT,4.6,10 km,Pusat gempa berada di darat 18 km timur laut Agam,"III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh, III-IV Pasaman, III-IV Pasaman Barat"
 27 Des 2025,10:00:18 WIB,2025-12-27 03:00:18+00:00,"-5.64,102.28",5.64 LS,102.28 BT,4.8,17 km,Pusat gempa berada di laut 32 km Tenggara Enggano,II-III Enggano
 27 Des 2025,08:10:13 WIB,2025-12-27 01:10:13+00:00,"-5.58,102.22",5.58 LS,102.22 BT,5.8,18 km,Pusat gempa berada di laut 24 km Barat Daya Enggano,"III Enggano, II-III Kaur, II-III Kota Bengkulu, II-III Pagar Alam, I Kepahiang"
 27 Des 2025,07:22:32 WIB,2025-12-27 00:22:32+00:00,"-5.58,102.27",5.58 LS,102.27 BT,5.9,19 km,Pusat gempa berada di laut 26 km Tenggara Enggano,"III Enggano, II-III Kaur, II-III Kota Bengkulu"

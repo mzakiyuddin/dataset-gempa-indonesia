@@ -1,4 +1,8 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+27 Jan 2026,15:18:31 WIB,2026-01-27 08:18:31+00:00,"-8.27,109.09",8.27 LS,109.09 BT,4.2,34 km,Pusat gempa berada di laut 61 km selatan Cilacap,II-III Cilacap
+27 Jan 2026,13:15:32 WIB,2026-01-27 06:15:32+00:00,"-7.87,110.49",7.87 LS,110.49 BT,4.5,11 km,Pusat gempa berada di darat 16 km timur Bantul,"III Sleman, III Kulon Progo, III Gunungkidul, III Magelang, II Pacitan, II Solo, II Trenggalek, II Purworejo, II Wonogiri"
+27 Jan 2026,12:50:48 WIB,2026-01-27 05:50:48+00:00,"4.75,96.76",4.75 LU,96.76 BT,2.5,7 km,Pusat gempa berada di darat 12 km barat Bener Meriah,II-III Bener Meriah
+27 Jan 2026,08:20:44 WIB,2026-01-27 01:20:44+00:00,"-8.14,111.33",8.14 LS,111.33 BT,5.5,105 km,Pusat gempa berada di darat 25 km timur laut Pacitan,"III-IV Pacitan, III-IV Karangkates, III-IV Tulungagung, III Malang, III Nganjuk, III Ponorogo, III Blitar, II-III Madiun, II-III Denpasar, II-III Kuta, II-III Karangasem, II-III Jember, II-III Mojokerto, II Yogyakarta, II Bantul, II Sleman, II Kulon Progo, II Purworejo, II Pasuruan, II Semarang, II Mataram"
 26 Jan 2026,08:29:19 WIB,2026-01-26 01:29:19+00:00,"-6.38,107.17",6.38 LS,107.17 BT,2.7,7 km,Pusat gempa berada di darat 2 km Selatan Kabupaten Bekasi,"II-III Cikarang, II-III Karawang"
 26 Jan 2026,07:50:55 WIB,2026-01-26 00:50:55+00:00,"0.65,99.73",0.65 LU,99.73 BT,2.6,8 km,Pusat gempa berada di darat 31 km Tenggara Mandailing Natal,II-III Mandailing Natal
 26 Jan 2026,06:47:09 WIB,2026-01-25 23:47:09+00:00,"-2.04,120.64",2.04 LS,120.64 BT,3.4,5 km,Pusat gempa berada di darat 72 km Selatan Poso,III Pendolo

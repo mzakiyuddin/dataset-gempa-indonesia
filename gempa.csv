@@ -1,4 +1,19 @@
 Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Dirasakan
+03 Apr 2026,07:32:55 WIB,2026-04-03 00:32:55+00:00,"1.23,126.83",1.23 LU,126.83 BT,5.2,10 km,Pusat gempa berada di laut 94 km barat Jailolo,
+03 Apr 2026,07:22:18 WIB,2026-04-03 00:22:18+00:00,"1.27,126.62",1.27 LU,126.62 BT,5.4,10 km,Pusat gempa berada di laut 96 km barat laut Jailolo,III-IV Kota Ternate
+03 Apr 2026,06:16:25 WIB,2026-04-02 23:16:25+00:00,"-2.76,134.46",2.76 LS,134.46 BT,3.1,10 km,Pusat gempa berada di laut 7 km barat daya Teluk Wondama,II Teluk Wondama
+03 Apr 2026,04:20:33 WIB,2026-04-02 21:20:33+00:00,"1.28,126.19",1.28 LU,126.19 BT,3.4,32 km,Pusat gempa berada di laut 120 km timur Bitung,II-III Batang Dua
+03 Apr 2026,04:06:25 WIB,2026-04-02 21:06:25+00:00,"1.12,126.48",1.12 LU,126.48 BT,3.5,52 km,Pusat gempa berada di laut 106 km barat Ternate,II-III Batang Dua
+03 Apr 2026,03:00:35 WIB,2026-04-02 20:00:35+00:00,"-4.10,121.88",4.10 LS,121.88 BT,3.4,5 km,Pusat gempa berada di darat 11 km selatan Kolaka Timur,III-IV Kolaka Timur
+03 Apr 2026,02:08:00 WIB,2026-04-02 19:08:00+00:00,"1.20,126.23",1.20 LU,126.23 BT,4.4,16 km,Pusat gempa berada di laut 126 km timur Bitung,II-III Batang Dua
+03 Apr 2026,01:46:10 WIB,2026-04-02 18:46:10+00:00,"1.27,126.27",1.27 LU,126.27 BT,4.2,20 km,Pusat gempa berada di laut 129 km timur Bitung,II-III Batang Dua
+02 Apr 2026,23:33:55 WIB,2026-04-02 16:33:55+00:00,"1.14,126.44",1.14 LU,126.44 BT,4.2,18 km,Pusat gempa berada di laut 111 km Barat Ternate,II-III Batang Dua
+02 Apr 2026,23:10:26 WIB,2026-04-02 16:10:26+00:00,"1.25,126.24",1.25 LU,126.24 BT,5.2,10 km,Pusat gempa berada di laut 126 km Tenggara Bitung,III Batang Dua
+02 Apr 2026,22:36:35 WIB,2026-04-02 15:36:35+00:00,"-3.57,134.93",3.57 LS,134.93 BT,5.5,10 km,Pusat gempa berada di darat 68 km Barat Daya Nabire,III Nabire
+02 Apr 2026,22:34:24 WIB,2026-04-02 15:34:24+00:00,"1.32,126.56",1.32 LU,126.56 BT,4.7,12 km,Pusat gempa berada di laut 105 km Barat Laut Jailolo,III Batang Dua
+02 Apr 2026,21:34:55 WIB,2026-04-02 14:34:55+00:00,"1.36,126.45",1.36 LU,126.45 BT,5.7,10 km,Pusat gempa berada di laut 117 km barat laut Jailolo,III-IV Ternate
+02 Apr 2026,21:13:47 WIB,2026-04-02 14:13:47+00:00,"1.39,126.56",1.39 LU,126.56 BT,5.5,10 km,Pusat gempa berada di laut 107 km barat laut Jailolo,"II-III Manado, II-III Tondano, II-III MInahasa Utara"
+02 Apr 2026,20:42:59 WIB,2026-04-02 13:42:59+00:00,"-3.81,122.45",3.81 LS,122.45 BT,3.1,11 km,Pusat gempa berada di darat 19 km utara Kendari,
 02 Apr 2026,15:38:58 WIB,2026-04-02 08:38:58+00:00,"1.18,126.26",1.18 LU,126.26 BT,4.6,25 km,Pusat gempa berada di laut 130 km timur Bitung,III Manado
 02 Apr 2026,13:42:46 WIB,2026-04-02 06:42:46+00:00,"-7.64,106.43",7.64 LS,106.43 BT,4.5,25 km,Pusat gempa berada di laut 73 km barat daya Kab. Sukabumi,"III Ciracap, III Surade, III Kabandungan, II-III Cidolog"
 02 Apr 2026,10:23:51 WIB,2026-04-02 03:23:51+00:00,"1.23,126.57",1.23 LU,126.57 BT,5.8,10 km,Pusat gempa berada di laut 102 km Barat Jailolo,"IV-V Batang Dua, IV Ternate, II-III Manado, II-III Minahasa, II-III Minahasa Tenggara, II-III MInahasa Utara"
